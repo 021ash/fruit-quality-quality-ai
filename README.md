@@ -27,12 +27,12 @@ This project implements a real-time lemon sorting machine using computer vision 
 ## 🧠 Trained Model
 
 - Model path: `model/best.pt`
-- Classes: `good`, `bad`
+- Classes: `raw`, `ripe`,`rotten`
 - Trained using YOLOv8
 
 ## 🧪 Running the Detection
 
-Open and run the notebook: `notebook/The_code.ipynb`.
+Open and run the notebook: `deploy.ipynb`.
 
 Make sure:
 - Your ESP32 is connected and accessible via a COM port
