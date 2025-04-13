@@ -53,10 +53,6 @@ pip install -r requirements.txt
 
 Upload ESP32 code using Arduino IDE or PlatformIO.
 
-## 📸 System Diagram
-
-_Add system image in `images/` folder_
-
 ## 📄 License
 
 MIT License
